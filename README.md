@@ -5,34 +5,12 @@ I'm a firm believer that questioning the "why" of things and deeply understandin
 
 ---
 ## 🖥️ *Tehcnologies and areas of knowledge*
-### Artificial Intelligence & Data science
-My biggest area of interest is without a doubt artificial intelligence. Currently studying machine learning.
-- I prefer Anaconda por projects in this area.
-#### Machine Learning 
-- Python and industry standard libraries.
-   
-   - Tensorflow
-   - Pandas
-   - Matplotlib
-   - Seaborn
-   - Numpy
-### Software Development & Engineering
-- Java
-  - Maven
-- Kotlin (used for the most part for Android development)
+- **Artificial Intelligence & Data science:** Tensorflow, Pandas, Matplotlib, Seaborn, numpy.
+- **Software Development & Engineering:** Java, Maven and Kotlin.
+- **Web Development:** Html, CSS, Javascript
+- **Data structures:** C++.
+- **Databases:** SQL, Cypher(neo4j)
 
-### Web Development
-- HTML
-- CSS
-- Javascript
-
-### Data structures
-Graphs, trees and all that jazz.
-- C++.
-
-### Databases
-- SQL
-- Cypher (Neo4j)
 ---
 ## 🌆 *Personal interests*
 just in case youre that curious
