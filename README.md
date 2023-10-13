@@ -3,7 +3,7 @@ Hi there! Currently I'm a systems engineer student @Pontificia Universidad Javer
 
 I'm a firm believer that questioning the "why" of things and deeply understanding a topic is way more valuable than just working towards an result, no matter how you get there. Grades and titles can only tell you so much about a person's values and principles.
 
-Meh, who am I anyways to be the judge of others people's actions when I'm just figuring out my own shit. Do what makes you happy, and help others in the process. The rest, is up to you.
+Meh, who am I anyways to be the judge of others people's actions when I'm just figuring out my own shit. Do what makes you happy and help others in the process. The rest, it's up to you.
 
 ---
 ## 🖥️ *Tehcnologies and areas of knowledge*
