@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="186" src="https://cdnb.artstation.com/p/assets/images/images/016/297/033/large/alena-aenami-you-1k-2.jpg?1551647925"  />
+  <img width="500" src="https://cdnb.artstation.com/p/assets/images/images/016/297/033/large/alena-aenami-you-1k-2.jpg?1551647925"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Systems engineering student at Pontificia Universidad Javeriana, Bogotá, with a passion for understanding the "why" behind things. I believe that deeply grasping a topic is far more valuable than simply chasing results, and I strive to uphold values and principles that reflect this mindset.<br><br>As a versatile and motivated software engineer, I specialize in frontend development and data analysis, with a solid foundation in web and mobile development, as well as artificial intelligence. I'm known for taking initiative and leading teams toward success, driven by a relentless curiosity and a hunger for learning. I see challenges as opportunities to grow and adapt, always aiming for excellence in both the process and outcomes to create impactful, sustainable solutions.<br><br>Below is a list of the main technologies I work with. Anything catches your attention? Feel free to shoot me a message over on linkedin, the contact information listed there, or over on davids_barretom@javeriana.eu.co.<br><br>Have an excellent day!</p>
+<p align="center">Last semesters systems engineering student at Pontificia Universidad Javeriana, Bogotá, with a passion for understanding the "why" behind things. I believe that deeply grasping a topic is far more valuable than simply chasing results, and I strive to uphold values and principles that reflect this mindset.<br><br>As a versatile and motivated software engineer, I specialize in frontend development and data analysis, with a solid foundation in web and mobile development, as well as artificial intelligence. I'm known for taking initiative and leading teams toward success, driven by a relentless curiosity and a hunger for learning. I see challenges as opportunities to grow and adapt, always aiming for excellence in both the process and outcomes to create impactful, sustainable solutions.<br><br>Below is a list of the main technologies I work with. Anything catches your attention? Feel free to shoot me a message over on linkedin, the contact information listed there, or over on davids_barretom@javeriana.eu.co.<br><br>Have an excellent day!</p>
 
 ###
 
