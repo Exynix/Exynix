@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center"> 
+<p align="left"> 
 Being born right at the start of the 2000's, I've lived most of my life next to software and technology. While this shaped a lot of my personality and hobbies (I play a lot of videogames, who could've guessed 😄), it also shaped my professional career as well as the values that define it. Through my natural affinity with software, I seek to solve problems ranging from small gripes and nitpicks I have, to problems affecting millions of people by creating awesome and humane software apps and tools; while at no point forgetting the ethics, philosophies and engineering principles that have made me who I am.
 
 Life has taught me that nothing will change unless you embody the change you seek to see in the world; my version of that is the nerdy, software version. 
