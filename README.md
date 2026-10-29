@@ -25,14 +25,14 @@ Life has taught me that nothing will change unless you embody the change you see
 <p>
   Speaking more technically, I've been able to gain practical experience in a very wide range of areas of software engineering.
   <ul>
-    - Database operation and design.
-    - Data Analysis
-    - ML and AI
-    - Frontend development
-    - Backend development
-    - Software architecture
-    - Networks, operations and maintenance
-    - Cloud computing
+    <li>Database operation and design.</li>
+    <li>Data Analysis</li>
+    <li>ML and AI</li>
+    <li>Frontend development</li>
+    <li>Backend development</li>
+    <li>Software architecture</li>
+    <li>Networks, operations and maintenance</li>
+    <li>Cloud computing</li>
   </ul>
 </p>
 
