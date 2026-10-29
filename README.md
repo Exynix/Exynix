@@ -24,14 +24,16 @@ Life has taught me that nothing will change unless you embody the change you see
 
 <p>
   Speaking more technically, I've been able to gain practical experience in a very wide range of areas of software engineering.
-- Database operation and design.
-- Data Analysis
-- ML and AI
-- Frontend development
-- Backend development
-- Software architecture
-- Networks, operations and maintenance
-- Cloud computing
+  <ul>
+    - Database operation and design.
+    - Data Analysis
+    - ML and AI
+    - Frontend development
+    - Backend development
+    - Software architecture
+    - Networks, operations and maintenance
+    - Cloud computing
+  </ul>
 </p>
 
 This poor readme will never be enough to fill talk in depth about all those experiences, so instead below you'll neatly find icons for the tools / frameworks / tools I use most:
