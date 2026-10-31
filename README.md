@@ -36,7 +36,11 @@ Life has taught me that nothing will change unless you embody the change you see
   </ul>
 </p>
 
-This poor readme will never be enough to fill talk in depth about all those experiences, so instead below you'll neatly find icons for the tools / frameworks / tools I use most:
+Where currently, my area of expertise is full-stack development. This includes database design and operation (SQL and NoSQL), backend architecture and development (C# and Java) and frontend development (Mainly React | Next.js with experience as well with Angular). All of this containerized with Docker and deployed in common cloud providers (Azure and GCP).
+
+I'm currently adding to my skillset mobile development with React Native, and AI related development (integration of AI features and agents both in products and development).
+
+Images are cool, so  below you'll neatly find icons for the tools / frameworks / tools I use most:
 
 ###
 
